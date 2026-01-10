@@ -19,5 +19,4 @@
 3. Setup MySQL database
 4. Run on server
 
-## Note
-WAR file is generated locally for deployment.
+
